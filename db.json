@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Naveena",
+      "batch": "2023-2027",
+      "major": "Artificial Intelligence"
+    },
+    {
+      "id": 2,
+      "name": "Aarifa",
+      "batch": "2023-2027",
+      "major": "Data Science"
+    },
+    {
+      "name": "fg",
+      "batch": "wrgv ",
+      "major": "fhsd",
+      "id": 3
+    },
+    {
+      "name": "rgv",
+      "batch": "rgbvw ",
+      "major": "wrgv",
+      "id": 4
+    }
+  ]
+}
